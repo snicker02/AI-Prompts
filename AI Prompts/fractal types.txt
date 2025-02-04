@@ -1,0 +1,46 @@
+add fractal algorithm 
+3D Cantor Dust
+3D Greek cross fractal
+3D H-fractal
+3D Moore Curve
+A self-affine fractal set
+Appollonian sphere packing
+Boundary of the Levy C Curve
+Boundary of the Mandelbrot set
+Boundary of the twin dragon
+Cantor Set
+Contour of Gosper Island fractal algorithm
+Dendrite Julia Set
+Dodecahedron fractal
+Fractal H-I De Riviera
+Hausdorff Dimension
+Henon Map fractal algorithm
+Hexaflake fractal algorithm
+Icosahedron fractal
+Ikeda Map Attractor Fractal
+Jerusalem Cube
+Koch Curve Fractal Algorithm
+Koch curve
+Mandelbulb
+Menger Sponge
+Monkeys tree
+Octahedron
+Painting using boundary of the Rauzy Fractal
+Painting using Cantor Set
+Painting using Countour of the Gosper Island fractal algorithm
+Painting using Feigenbaum attractor
+Painting using Julia set
+Painting using spectrum of Fibonacci
+Painting using Takagi
+Penrose Tiling
+Pentaflake
+Pinwheel fractal
+Pythagoras Tree
+Sierpinski Carpet
+Sierpinski Hexagon
+SmithVolterraCantor Set
+triflake fractal algorithm
+triflake
+Von Koch Curve
+Von Koch in 3D
+Von Koch Surface

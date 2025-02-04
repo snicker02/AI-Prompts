@@ -1,0 +1,67 @@
+Here's an update on a list of 63 prompt modifiers that I've categorized as 'Medium & technique'. You can use them in combination with a prompt. I've added | to all of these because many AI respond well to instructions that have been chopped up into smaller parts, e.g. "a metropolis at night | Dystopian".
+Suggestions for more? Don't hesitate to post them!
+Examples of all modifiers can be found in my posts (search for "medium").
+
+| a 3D render
+| a black and white photo
+| a bronze sculpture
+| a cartoon
+| a cave painting
+| a charcoal drawing
+| a child's drawing
+| a coin
+| a color pencil sketch
+| a comic book panel
+| a cross stitch
+| a detailed drawing
+| a detailed painting
+| a digital painting
+| a drypoint etching
+| a fine art painting
+| a fresco
+| a glowing neon image
+| a gongbi painting
+| a gouache painting
+| a hologram
+| a jigsaw puzzle
+| a macro photograph
+| a matte painting
+| a detailed matte painting
+| a microscopic photo
+| a mogu painting
+| a mosaic
+| a pastel
+| a photo
+| a photocopy
+| a raytraced image
+| a sculpture
+| a silk screen
+| a sketch
+| a stipple
+| a stock photo
+| a storybook illustration
+| a tattoo
+| a tilt shift photo
+| a watercolor painting
+| a woodcut
+| an acrylic painting
+| an airbrush painting
+| an ambient occlusion render
+| an anime drawing
+| an engraving
+| an etching
+| an icon
+| an illumination 
+| an ink drawing
+| an impasto painting
+| an oil on canvas painting
+| an oil painting
+| an ultrafine detailed painting
+| chalk art
+| computer graphics
+| computer rendering
+| graffiti
+| lineart
+| pixel art
+| poster art
+| vector art
